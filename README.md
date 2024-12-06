@@ -33,16 +33,13 @@
 </h1>
 
 - ## Login
-![](./src/assets/gifs/login.gif)
+![telaRegisterUnifeso](https://gist.github.com/user-attachments/assets/d937d525-cc94-4d17-94ff-bc14035bef19)
 
-- ## Artigos
-![](./src/assets/gifs/artigos.gif)
+- ## Home
+![homeSiteUnifeso](https://gist.github.com/user-attachments/assets/3e89f586-e5a0-4781-9463-dbfa098174e6)
 
-- ## Pesquisa Avançada
-![](./public/images/PesquisaAvancada.png)
-
-- ## Casdastro de Artigos
-![](./public/images/cadastroArtigo.png)
+- ## Casdastro de Skills
+![telaCatalogo](https://gist.github.com/user-attachments/assets/5ee60a6e-f2ee-4702-a06e-1f869e67cb0a)
 
 </br>
 
