@@ -29,7 +29,7 @@
 </br>   
 
 <h1 align="center">
-    Telas do Sistema
+    Screenshots do Sistema
 </h1>
 
 - ## Login
@@ -41,12 +41,23 @@
 - ## Casdastro de Skills
 ![telaCatalogo](https://gist.github.com/user-attachments/assets/5ee60a6e-f2ee-4702-a06e-1f869e67cb0a)
 
+- ## Skills
+![](./src/assets/gifs/artigos.gif)
+
+- ## Pesquisa
+![](./public/images/PesquisaAvancada.png)
+
+- ## Casdastro de Skills
+![](./public/images/cadastroArtigo.png)
+>>>>>>> 6411c07da612395e644ccda9f024ceec4c7ea6b8
+
 </br>
 
 ## Tecnologia Utilizada
 
 - [**Spring Boot**](https://spring.io/projects/spring-boot)    [(*Documentação*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [**JAVA 17**](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)    [(*Documentação*)](https://spring.io/projects/spring-boot#learn)
+- [**Postman**](https://www.postman.com/)    [(*Documentação*)](https://learning.postman.com/docs/introduction/overview/?deviceId=2299d99c-e9a7-4844-ae4f-e9e4934062fb)
 
 <br>
 
