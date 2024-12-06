@@ -47,6 +47,16 @@
     <img src="/imgsApi/telaCatalogo.jpeg" alt="">
 </p>
 
+- ## Rotas API
+<p align="center">
+    <img src="/imgsApi/SwaggerSchema.jpeg" alt="">
+</p>
+
+- ## Doc API
+<p align="center">
+    <img src="/imgsApi/SwaggerRequest.jpg" alt="">
+</p>
+
 </br>
 
 ## Tecnologia Utilizada
