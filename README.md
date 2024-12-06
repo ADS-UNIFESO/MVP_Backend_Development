@@ -35,13 +35,13 @@
 - ## Login
 ![](./src/assets/gifs/login.gif)
 
-- ## Artigos
+- ## Skills
 ![](./src/assets/gifs/artigos.gif)
 
-- ## Pesquisa Avançada
+- ## Pesquisa
 ![](./public/images/PesquisaAvancada.png)
 
-- ## Casdastro de Artigos
+- ## Casdastro de Skills
 ![](./public/images/cadastroArtigo.png)
 
 </br>
