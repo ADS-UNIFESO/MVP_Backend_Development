@@ -50,6 +50,7 @@
 
 - [**Spring Boot**](https://spring.io/projects/spring-boot)    [(*Documentação*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [**JAVA 17**](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)    [(*Documentação*)](https://spring.io/projects/spring-boot#learn)
+- [**Postman**](https://www.postman.com/)    [(*Documentação*)](https://learning.postman.com/docs/introduction/overview/?deviceId=2299d99c-e9a7-4844-ae4f-e9e4934062fb)
 
 <br>
 
