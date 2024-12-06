@@ -29,7 +29,7 @@
 </br>   
 
 <h1 align="center">
-    Telas do Sistema
+    Screenshots do Sistema
 </h1>
 
 - ## Login
