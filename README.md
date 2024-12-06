@@ -41,16 +41,6 @@
 - ## Casdastro de Skills
 ![telaCatalogo](https://gist.github.com/user-attachments/assets/5ee60a6e-f2ee-4702-a06e-1f869e67cb0a)
 
-- ## Skills
-![](./src/assets/gifs/artigos.gif)
-
-- ## Pesquisa
-![](./public/images/PesquisaAvancada.png)
-
-- ## Casdastro de Skills
-![](./public/images/cadastroArtigo.png)
->>>>>>> 6411c07da612395e644ccda9f024ceec4c7ea6b8
-
 </br>
 
 ## Tecnologia Utilizada
