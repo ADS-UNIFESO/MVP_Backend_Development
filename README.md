@@ -34,17 +34,17 @@
 
 - ## Login
 <p align="center">
-    <img src="/imgsApi/telaRegisterUnifeso.jpeg" alt="unifeso-logo">
+    <img src="/imgsApi/telaRegisterUnifeso.jpeg" alt="">
 </p>
 
 - ## Home
 <p align="center">
-    <img src="/imgsApi/homeSiteUnifeso.jpeg.jpeg" alt="unifeso-logo">
+    <img src="/imgsApi/homeSiteUnifeso.jpeg" alt="">
 </p>
 
 - ## Casdastro de Skills
 <p align="center">
-    <img src="/imgsApi/telaCatalogo.jpeg.jpeg" alt="unifeso-logo">
+    <img src="/imgsApi/telaCatalogo.jpeg" alt="">
 </p>
 
 </br>
