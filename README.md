@@ -33,13 +33,19 @@
 </h1>
 
 - ## Login
-![telaRegisterUnifeso](https://gist.github.com/user-attachments/assets/d937d525-cc94-4d17-94ff-bc14035bef19)
+<p align="center">
+    <img src="/imgsApi/telaRegisterUnifeso.jpeg" alt="unifeso-logo">
+</p>
 
 - ## Home
-![homeSiteUnifeso](https://gist.github.com/user-attachments/assets/3e89f586-e5a0-4781-9463-dbfa098174e6)
+<p align="center">
+    <img src="/imgsApi/homeSiteUnifeso.jpeg.jpeg" alt="unifeso-logo">
+</p>
 
 - ## Casdastro de Skills
-![telaCatalogo](https://gist.github.com/user-attachments/assets/5ee60a6e-f2ee-4702-a06e-1f869e67cb0a)
+<p align="center">
+    <img src="/imgsApi/telaCatalogo.jpeg.jpeg" alt="unifeso-logo">
+</p>
 
 </br>
 
